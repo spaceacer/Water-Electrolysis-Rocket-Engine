@@ -14,5 +14,4 @@ Key highlights include:
 
 > ⚠️ This project is **view-only**. Redistribution, reuse, modification, or reproduction of any part of this repository is **strictly prohibited**.
 
-## 📂 Repository Structure
 
